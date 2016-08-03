@@ -1,7 +1,7 @@
 {
   "name": "koa2-app-outline",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Simple Boilerplate for a Koa v2 App",
   "main": "server.js",
   "scripts": {
     "babel": "babel -w src -d build --s",
